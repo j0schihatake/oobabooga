@@ -1,11 +1,13 @@
 # oobabooga
 tests
 
-youtobe: https://www.youtube.com/watch?v=cCQdzqAHcFk
+youtobe:  https://www.youtube.com/watch?v=cCQdzqAHcFk
 
-https://github.com/oobabooga/text-generation-webui
+web ui:  https://github.com/oobabooga/text-generation-webui
 
-https://github.com/Atinoda/text-generation-webui-docker
+docker:  https://github.com/Atinoda/text-generation-webui-docker
 
 git lfs install
 git clone https://huggingface.co/anon8231489123/vicuna-13b-GPTQ-4bit-128g      модель викуны
+
+Ссылка на репозиторий с перечислением моделей:  https://github.com/underlines/awesome-marketing-datascience/blob/master/awesome-ai.md
